@@ -1,0 +1,18 @@
+#footer td {
+background: rgb(39,39,39);
+text-align: center;
+padding-left: 4px;
+border-right: 0px solid #c8c7c7;
+border-bottom: 0px solid #c8c7c7;
+}
+
+#footer .content a img {
+padding: 0px;
+box-shadow: 0 0 3px #EEE;
+background: #FFF;
+border: #EEE 0px solid;
+}
+
+#footer table {
+    border-collapse: collapse;
+}
